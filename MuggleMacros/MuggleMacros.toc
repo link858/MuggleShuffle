@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: MuggleMacros 
+## Notes: Macros for crafting
+## Author: Wreckin aka Muggle
+## Version: 1.0.0
+
+MuggleSetup.lua
