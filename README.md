@@ -11,7 +11,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 
@@ -235,8 +234,6 @@ Project Link: [https://github.com/link858/MuggleShuffle](https://github.com/link
 [stars-url]: https://github.com/link858/MuggleShuffle/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/link858/MuggleShuffle/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/link858/MuggleShuffle/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Python.org]: https://img.shields.io/badge/python-v3.7-blue
 [Python-url]: https://python.org 
