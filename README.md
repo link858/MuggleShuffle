@@ -105,6 +105,7 @@ I am very new to scripting / coding in general so this was very fun to do and I 
 ## Getting Started
 
 **It requires the [Trade Skill Master(TSM)](https://www.tradeskillmaster.com/install) addon and their Desktop client so its fully functional**
+
 ***YOU MUST set up groups like normal so Auction Mode will work***
 
 ***You MUST use the TSM UI for the MailBox and Auction House***
