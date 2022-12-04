@@ -68,7 +68,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://github.com/link858/MuggleShuffle)
 
 **A neat script I wrote to help shuffle through prospecting and creating gems and maintaining a low price on the AH**
-I am very new to scripting / coding in general 
+I am very new to scripting / coding in general so this was very fun to do and I think I learned some things along the way
 
 **PROSPECT MODE**
 * It will prospect and count the results, once there is no more saronite it goes to **Green Craft Mode**
