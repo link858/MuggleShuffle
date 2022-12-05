@@ -138,8 +138,12 @@ Im not sure if you have to install these yourself but it uses pyautogui and PIL
 **I MADE AN ADDON FOR WORLD OF WARCRAFT TO AUTOMATICALLY CREATE THE MACROS FOR YOU**
 
 Just put the folder ***"MuggleMacros"*** into your WoW Addons folder
+
 Enable the Addon and INGAME type /mugglesetup to create the macros and the new chat window, /muggledel removes the macros but you need to close the chat yourself
-Do not resize the new black chat window or cover it, its how the script can see things to count.(if the count is off, make sure the new chat tab is the last tab you clicked so the macro can refresh the chat)
+
+Do not resize the new black chat window or cover it, its how the script can see things to count.
+
+(if the count is off, make sure the new chat tab is the last tab you clicked so the macro can refresh the chat)
 
 1. **You must put the macros on your bar manually, there are ****2 pictures bar_setup 1 and 2****, you must make yours the same as shown.**
 2. **You must have click to move enabled and INTERACT WITH TARGET set to 'F'**
@@ -217,13 +221,13 @@ Project Link: [https://github.com/link858/MuggleShuffle](https://github.com/link
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/link858/MuggleShuffle.svg?style=for-the-badge
 [contributors-url]: https://github.com/link858/MuggleShuffle/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/link858/MuggleShuffle.svg?style=for-the-badge
 [forks-url]: https://github.com/link858/MuggleShuffle/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/link858/MuggleShuffle.svg?style=for-the-badge
 [stars-url]: https://github.com/link858/MuggleShuffle/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/link858/MuggleShuffle.svg?style=for-the-badge
 [issues-url]: https://github.com/link858/MuggleShuffle/issues
 [product-screenshot]: Images/screenshot.png
 [Python.org]: https://img.shields.io/badge/python-v3.7-blue
